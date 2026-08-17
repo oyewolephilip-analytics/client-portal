@@ -1,0 +1,67 @@
+body {
+  background: #f5f7fb;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.nav-link {
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  background: white;
+  color: #0d6efd !important;
+  border-radius: 8px;
+}
+
+.nav-link.active {
+  background: white;
+  color: #0d6efd !important;
+  border-radius: 8px;
+}
+
+.card {
+  transition: 0.3s;
+}
+
+.btn-light {
+  width: 55px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-control {
+  height: 50px;
+}
+
+table tbody tr {
+  cursor: pointer;
+}
+
+.hamburger-btn {
+  border: none;
+  background: transparent;
+  color: #0d6efd;
+  transition: 0.3s;
+}
+
+.hamburger-btn:hover {
+  color: #084298;
+  transform: scale(1.1);
+}
+
+#sidebar.offcanvas-lg {
+  transition: transform 0.3s ease-in-out;
+}
+
+@media (max-width: 991.98px) {
+  #sidebar {
+    box-shadow: 4px 0 20px rgba(0, 0, 0, 0.15);
+  }
+}

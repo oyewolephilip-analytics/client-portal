@@ -7,7 +7,7 @@ https://client-portal.philipoyewole62.workers.dev/
 
 ## Features
 - Multi-section marketing site: Home, Services, Features, Product, Testimonials, FAQ
-- Login and Sign In flows
+- Login flow
 - Client trust/logo showcase
 - Testimonial section
 - Blog/insights preview section

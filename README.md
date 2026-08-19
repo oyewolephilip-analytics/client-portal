@@ -14,7 +14,7 @@ https://client-portal.philipoyewole62.workers.dev/
 - Newsletter signup footer
 
 ## Tech Stack
-HTML5, CSS3, JavaScript, PHP
+HTML5, CSS3
 
 ## What I focused on
 Building a full-scale SaaS-style marketing site with multiple linked pages (not just a single-page scroll) — practicing site architecture, navigation, and consistent design across sections.
